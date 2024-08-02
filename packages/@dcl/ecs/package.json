@@ -4,6 +4,9 @@
   "version": "7.0.0",
   "author": "DCL",
   "bugs": "https://github.com/decentraland/ecs/issues",
+  "dependencies": {
+    "@dcl/protocol": "1.0.0-10043247792.commit-428d1eb"
+  },
   "files": [
     "dist",
     "dist-cjs",
